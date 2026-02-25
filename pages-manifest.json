@@ -1,0 +1,620 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "title": "الرئيسية",
+    "htmlFile": "index.html"
+  },
+  {
+    "name": "smart-rasid",
+    "path": "/smart-rasid",
+    "title": "راصد الذكي",
+    "htmlFile": "smart-rasid.html"
+  },
+  {
+    "name": "national-overview",
+    "path": "/national-overview",
+    "title": "لوحة القيادة الرئيسية",
+    "htmlFile": "national-overview.html"
+  },
+  {
+    "name": "leaks",
+    "path": "/leaks",
+    "title": "حالات الرصد",
+    "htmlFile": "leaks.html"
+  },
+  {
+    "name": "reports",
+    "path": "/reports",
+    "title": "التقارير",
+    "htmlFile": "reports.html"
+  },
+  {
+    "name": "recommendations-hub",
+    "path": "/recommendations-hub",
+    "title": "التوصيات",
+    "htmlFile": "recommendations-hub.html"
+  },
+  {
+    "name": "threat-map",
+    "path": "/threat-map",
+    "title": "خريطة التهديدات",
+    "htmlFile": "threat-map.html"
+  },
+  {
+    "name": "sector-analysis",
+    "path": "/sector-analysis",
+    "title": "تحليل القطاعات",
+    "htmlFile": "sector-analysis.html"
+  },
+  {
+    "name": "impact-assessment",
+    "path": "/impact-assessment",
+    "title": "تحليل الأثر",
+    "htmlFile": "impact-assessment.html"
+  },
+  {
+    "name": "geo-analysis",
+    "path": "/geo-analysis",
+    "title": "التحليل الجغرافي",
+    "htmlFile": "geo-analysis.html"
+  },
+  {
+    "name": "source-intelligence",
+    "path": "/source-intelligence",
+    "title": "استخبارات المصادر",
+    "htmlFile": "source-intelligence.html"
+  },
+  {
+    "name": "threat-actors-analysis",
+    "path": "/threat-actors-analysis",
+    "title": "تحليل جهات النشر",
+    "htmlFile": "threat-actors-analysis.html"
+  },
+  {
+    "name": "pii-atlas",
+    "path": "/pii-atlas",
+    "title": "أطلس البيانات الشخصية",
+    "htmlFile": "pii-atlas.html"
+  },
+  {
+    "name": "knowledge-graph",
+    "path": "/knowledge-graph",
+    "title": "رسم المعرفة",
+    "htmlFile": "knowledge-graph.html"
+  },
+  {
+    "name": "leak-timeline",
+    "path": "/leak-timeline",
+    "title": "الخط الزمني للحالات",
+    "htmlFile": "leak-timeline.html"
+  },
+  {
+    "name": "feedback-accuracy",
+    "path": "/feedback-accuracy",
+    "title": "مقاييس الدقة",
+    "htmlFile": "feedback-accuracy.html"
+  },
+  {
+    "name": "executive-brief",
+    "path": "/executive-brief",
+    "title": "الملخص التنفيذي",
+    "htmlFile": "executive-brief.html"
+  },
+  {
+    "name": "incident-compare",
+    "path": "/incident-compare",
+    "title": "مقارنة الحالات",
+    "htmlFile": "incident-compare.html"
+  },
+  {
+    "name": "campaign-tracker",
+    "path": "/campaign-tracker",
+    "title": "متتبع الحملات",
+    "htmlFile": "campaign-tracker.html"
+  },
+  {
+    "name": "live-scan",
+    "path": "/live-scan",
+    "title": "الرصد المباشر",
+    "htmlFile": "live-scan.html"
+  },
+  {
+    "name": "telegram",
+    "path": "/telegram",
+    "title": "رصد تليجرام",
+    "htmlFile": "telegram.html"
+  },
+  {
+    "name": "darkweb",
+    "path": "/darkweb",
+    "title": "رصد الدارك ويب",
+    "htmlFile": "darkweb.html"
+  },
+  {
+    "name": "paste-sites",
+    "path": "/paste-sites",
+    "title": "مواقع اللصق",
+    "htmlFile": "paste-sites.html"
+  },
+  {
+    "name": "monitoring-jobs",
+    "path": "/monitoring-jobs",
+    "title": "مهام الرصد",
+    "htmlFile": "monitoring-jobs.html"
+  },
+  {
+    "name": "pii-classifier",
+    "path": "/pii-classifier",
+    "title": "مختبر أنماط البيانات",
+    "htmlFile": "pii-classifier.html"
+  },
+  {
+    "name": "evidence-chain",
+    "path": "/evidence-chain",
+    "title": "سلسلة الأدلة",
+    "htmlFile": "evidence-chain.html"
+  },
+  {
+    "name": "threat-rules",
+    "path": "/threat-rules",
+    "title": "قواعد الرصد",
+    "htmlFile": "threat-rules.html"
+  },
+  {
+    "name": "osint-tools",
+    "path": "/osint-tools",
+    "title": "أدوات OSINT",
+    "htmlFile": "osint-tools.html"
+  },
+  {
+    "name": "seller-profiles",
+    "path": "/seller-profiles",
+    "title": "ملفات المصادر",
+    "htmlFile": "seller-profiles.html"
+  },
+  {
+    "name": "alert-channels",
+    "path": "/alert-channels",
+    "title": "قنوات التنبيه",
+    "htmlFile": "alert-channels.html"
+  },
+  {
+    "name": "incidents-registry",
+    "path": "/incidents-registry",
+    "title": "سجل الحالات",
+    "htmlFile": "incidents-registry.html"
+  },
+  {
+    "name": "breach-import",
+    "path": "/breach-import",
+    "title": "استيراد البيانات",
+    "htmlFile": "breach-import.html"
+  },
+  {
+    "name": "export-data",
+    "path": "/export-data",
+    "title": "تصدير البيانات",
+    "htmlFile": "export-data.html"
+  },
+  {
+    "name": "atlas-overview",
+    "path": "/atlas/overview",
+    "title": "راصد المشهد (Atlas)",
+    "htmlFile": "atlas-overview.html"
+  },
+  {
+    "name": "atlas-incidents",
+    "path": "/atlas/incidents",
+    "title": "راصد السجل (Atlas)",
+    "htmlFile": "atlas-incidents.html"
+  },
+  {
+    "name": "atlas-pii-atlas",
+    "path": "/atlas/pii-atlas",
+    "title": "راصد الأطلس (Atlas)",
+    "htmlFile": "atlas-pii-atlas.html"
+  },
+  {
+    "name": "atlas-pattern-lab",
+    "path": "/atlas/pattern-lab",
+    "title": "راصد الأنماط (Atlas)",
+    "htmlFile": "atlas-pattern-lab.html"
+  },
+  {
+    "name": "atlas-impact-lens",
+    "path": "/atlas/impact-lens",
+    "title": "راصد الأثر (Atlas)",
+    "htmlFile": "atlas-impact-lens.html"
+  },
+  {
+    "name": "atlas-trends",
+    "path": "/atlas/trends",
+    "title": "راصد الاتجاهات (Atlas)",
+    "htmlFile": "atlas-trends.html"
+  },
+  {
+    "name": "atlas-reports",
+    "path": "/atlas/reports",
+    "title": "راصد التقارير (Atlas)",
+    "htmlFile": "atlas-reports.html"
+  },
+  {
+    "name": "atlas-platform-compliance",
+    "path": "/atlas/platform/compliance",
+    "title": "راصد التسريبات (Atlas)",
+    "htmlFile": "atlas-platform-compliance.html"
+  },
+  {
+    "name": "overview",
+    "path": "/overview",
+    "title": "راصد المشهد (Leak Analysis)",
+    "htmlFile": "overview.html"
+  },
+  {
+    "name": "incidents",
+    "path": "/incidents",
+    "title": "راصد السجل (Leak Analysis)",
+    "htmlFile": "incidents.html"
+  },
+  {
+    "name": "pii-atlas-new",
+    "path": "/pii-atlas-new",
+    "title": "راصد الأطلس (Leak Analysis)",
+    "htmlFile": "pii-atlas-new.html"
+  },
+  {
+    "name": "pattern-lab",
+    "path": "/pattern-lab",
+    "title": "راصد الأنماط (Leak Analysis)",
+    "htmlFile": "pattern-lab.html"
+  },
+  {
+    "name": "impact-lens",
+    "path": "/impact-lens",
+    "title": "راصد الأثر (Leak Analysis)",
+    "htmlFile": "impact-lens.html"
+  },
+  {
+    "name": "trends",
+    "path": "/trends",
+    "title": "راصد الاتجاهات (Leak Analysis)",
+    "htmlFile": "trends.html"
+  },
+  {
+    "name": "reports-analysis",
+    "path": "/reports-analysis",
+    "title": "راصد التقارير (Leak Analysis)",
+    "htmlFile": "reports-analysis.html"
+  },
+  {
+    "name": "settings",
+    "path": "/settings",
+    "title": "الإعدادات",
+    "htmlFile": "settings.html"
+  },
+  {
+    "name": "user-management",
+    "path": "/user-management",
+    "title": "إدارة المستخدمين",
+    "htmlFile": "user-management.html"
+  },
+  {
+    "name": "audit-log",
+    "path": "/audit-log",
+    "title": "سجل المراجعة",
+    "htmlFile": "audit-log.html"
+  },
+  {
+    "name": "admin-control",
+    "path": "/admin/control",
+    "title": "لوحة التحكم الرئيسية",
+    "htmlFile": "admin-control.html"
+  },
+  {
+    "name": "admin-cms",
+    "path": "/admin/cms",
+    "title": "إدارة المحتوى",
+    "htmlFile": "admin-cms.html"
+  },
+  {
+    "name": "admin-operations",
+    "path": "/admin/operations",
+    "title": "مركز العمليات",
+    "htmlFile": "admin-operations.html"
+  },
+  {
+    "name": "super-admin",
+    "path": "/super-admin",
+    "title": "المشرف العام",
+    "htmlFile": "super-admin.html"
+  },
+  {
+    "name": "admin-settings",
+    "path": "/admin/settings",
+    "title": "إعدادات الإدارة",
+    "htmlFile": "admin-settings.html"
+  },
+  {
+    "name": "my-dashboard",
+    "path": "/my-dashboard",
+    "title": "لوحتي",
+    "htmlFile": "my-dashboard.html"
+  },
+  {
+    "name": "app-my",
+    "path": "/app/my",
+    "title": "لوحة المالك",
+    "htmlFile": "app-my.html"
+  },
+  {
+    "name": "app-overview",
+    "path": "/app/overview",
+    "title": "النظرة العامة",
+    "htmlFile": "app-overview.html"
+  },
+  {
+    "name": "breach-dashboards",
+    "path": "/breach-dashboards",
+    "title": "مركز لوحات التسريبات",
+    "htmlFile": "breach-dashboards.html"
+  },
+  {
+    "name": "breach-operations",
+    "path": "/breach-operations",
+    "title": "مركز عمليات التسريبات",
+    "htmlFile": "breach-operations.html"
+  },
+  {
+    "name": "app-incidents",
+    "path": "/app/incidents",
+    "title": "لوحة الحوادث",
+    "htmlFile": "app-incidents.html"
+  },
+  {
+    "name": "app-incidents-list",
+    "path": "/app/incidents/list",
+    "title": "قائمة الحوادث",
+    "htmlFile": "app-incidents-list.html"
+  },
+  {
+    "name": "leak-anatomy",
+    "path": "/leak-anatomy",
+    "title": "تشريح التسريب",
+    "htmlFile": "leak-anatomy.html"
+  },
+  {
+    "name": "recommendations",
+    "path": "/recommendations",
+    "title": "التوصيات",
+    "htmlFile": "recommendations.html"
+  },
+  {
+    "name": "interactive-comparison",
+    "path": "/interactive-comparison",
+    "title": "المقارنة التفاعلية",
+    "htmlFile": "interactive-comparison.html"
+  },
+  {
+    "name": "pdpl-compliance",
+    "path": "/pdpl-compliance",
+    "title": "امتثال نظام حماية البيانات",
+    "htmlFile": "pdpl-compliance.html"
+  },
+  {
+    "name": "bulk-analysis",
+    "path": "/bulk-analysis",
+    "title": "التحليل الجماعي",
+    "htmlFile": "bulk-analysis.html"
+  },
+  {
+    "name": "app-reports",
+    "path": "/app/reports",
+    "title": "قائمة التقارير",
+    "htmlFile": "app-reports.html"
+  },
+  {
+    "name": "report-approval",
+    "path": "/report-approval",
+    "title": "اعتماد التقارير",
+    "htmlFile": "report-approval.html"
+  },
+  {
+    "name": "my-custom-dashboard",
+    "path": "/my-custom-dashboard",
+    "title": "لوحتي المخصصة",
+    "htmlFile": "my-custom-dashboard.html"
+  },
+  {
+    "name": "cases",
+    "path": "/cases",
+    "title": "القضايا",
+    "htmlFile": "cases.html"
+  },
+  {
+    "name": "app-followups",
+    "path": "/app/followups",
+    "title": "المتابعات",
+    "htmlFile": "app-followups.html"
+  },
+  {
+    "name": "contracts",
+    "path": "/contracts",
+    "title": "العقود",
+    "htmlFile": "contracts.html"
+  },
+  {
+    "name": "documents-registry",
+    "path": "/documents-registry",
+    "title": "سجل المستندات",
+    "htmlFile": "documents-registry.html"
+  },
+  {
+    "name": "document-stats",
+    "path": "/document-stats",
+    "title": "إحصائيات المستندات",
+    "htmlFile": "document-stats.html"
+  },
+  {
+    "name": "members",
+    "path": "/members",
+    "title": "الأعضاء",
+    "htmlFile": "members.html"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "title": "الملف الشخصي",
+    "htmlFile": "profile.html"
+  },
+  {
+    "name": "notifications",
+    "path": "/notifications",
+    "title": "الإشعارات",
+    "htmlFile": "notifications.html"
+  },
+  {
+    "name": "email-management",
+    "path": "/email-management",
+    "title": "إدارة البريد",
+    "htmlFile": "email-management.html"
+  },
+  {
+    "name": "email-notifications",
+    "path": "/email-notifications",
+    "title": "إشعارات البريد",
+    "htmlFile": "email-notifications.html"
+  },
+  {
+    "name": "message-templates",
+    "path": "/message-templates",
+    "title": "قوالب الرسائل",
+    "htmlFile": "message-templates.html"
+  },
+  {
+    "name": "escalation",
+    "path": "/escalation",
+    "title": "قواعد التصعيد",
+    "htmlFile": "escalation.html"
+  },
+  {
+    "name": "activity-logs",
+    "path": "/activity-logs",
+    "title": "سجل النشاطات",
+    "htmlFile": "activity-logs.html"
+  },
+  {
+    "name": "api-keys",
+    "path": "/api-keys",
+    "title": "مفاتيح API",
+    "htmlFile": "api-keys.html"
+  },
+  {
+    "name": "ai-management",
+    "path": "/ai-management",
+    "title": "إدارة الذكاء الاصطناعي",
+    "htmlFile": "ai-management.html"
+  },
+  {
+    "name": "data-retention",
+    "path": "/data-retention",
+    "title": "الاحتفاظ بالبيانات",
+    "htmlFile": "data-retention.html"
+  },
+  {
+    "name": "mobile-apps",
+    "path": "/mobile-apps",
+    "title": "التطبيقات المحمولة",
+    "htmlFile": "mobile-apps.html"
+  },
+  {
+    "name": "personality-scenarios",
+    "path": "/personality-scenarios",
+    "title": "سيناريوهات الشخصية",
+    "htmlFile": "personality-scenarios.html"
+  },
+  {
+    "name": "scenario-management",
+    "path": "/scenario-management",
+    "title": "إدارة السيناريوهات",
+    "htmlFile": "scenario-management.html"
+  },
+  {
+    "name": "knowledge-base",
+    "path": "/knowledge-base",
+    "title": "قاعدة المعرفة",
+    "htmlFile": "knowledge-base.html"
+  },
+  {
+    "name": "training-center",
+    "path": "/training-center",
+    "title": "مركز التدريب",
+    "htmlFile": "training-center.html"
+  },
+  {
+    "name": "usage-analytics",
+    "path": "/usage-analytics",
+    "title": "تحليلات الاستخدام",
+    "htmlFile": "usage-analytics.html"
+  },
+  {
+    "name": "system-health",
+    "path": "/system-health",
+    "title": "صحة النظام",
+    "htmlFile": "system-health.html"
+  },
+  {
+    "name": "admin-panel",
+    "path": "/admin-panel",
+    "title": "لوحة الإدارة",
+    "htmlFile": "admin-panel.html"
+  },
+  {
+    "name": "admin",
+    "path": "/admin",
+    "title": "نظرة عامة على الإدارة",
+    "htmlFile": "admin.html"
+  },
+  {
+    "name": "admin-audit-log",
+    "path": "/admin/audit-log",
+    "title": "سجل تدقيق الإدارة",
+    "htmlFile": "admin-audit-log.html"
+  },
+  {
+    "name": "admin-feature-flags",
+    "path": "/admin/feature-flags",
+    "title": "أعلام الميزات",
+    "htmlFile": "admin-feature-flags.html"
+  },
+  {
+    "name": "admin-groups",
+    "path": "/admin/groups",
+    "title": "المجموعات",
+    "htmlFile": "admin-groups.html"
+  },
+  {
+    "name": "admin-menus",
+    "path": "/admin/menus",
+    "title": "القوائم",
+    "htmlFile": "admin-menus.html"
+  },
+  {
+    "name": "admin-roles",
+    "path": "/admin/roles",
+    "title": "الأدوار",
+    "htmlFile": "admin-roles.html"
+  },
+  {
+    "name": "admin-theme",
+    "path": "/admin/theme",
+    "title": "السمة",
+    "htmlFile": "admin-theme.html"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "title": "تسجيل الدخول",
+    "htmlFile": "login.html"
+  }
+]
