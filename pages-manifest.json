@@ -242,49 +242,49 @@
   {
     "name": "atlas-platform-compliance",
     "path": "/atlas/platform/compliance",
-    "title": "راصد التسريبات (Atlas)",
+    "title": "راصد حالات الرصد (Atlas)",
     "htmlFile": "atlas-platform-compliance.html"
   },
   {
     "name": "overview",
     "path": "/overview",
-    "title": "راصد المشهد (Leak Analysis)",
+    "title": "راصد المشهد (Case Analysis)",
     "htmlFile": "overview.html"
   },
   {
     "name": "incidents",
     "path": "/incidents",
-    "title": "راصد السجل (Leak Analysis)",
+    "title": "راصد السجل (Case Analysis)",
     "htmlFile": "incidents.html"
   },
   {
     "name": "pii-atlas-new",
     "path": "/pii-atlas-new",
-    "title": "راصد الأطلس (Leak Analysis)",
+    "title": "راصد الأطلس (Case Analysis)",
     "htmlFile": "pii-atlas-new.html"
   },
   {
     "name": "pattern-lab",
     "path": "/pattern-lab",
-    "title": "راصد الأنماط (Leak Analysis)",
+    "title": "راصد الأنماط (Case Analysis)",
     "htmlFile": "pattern-lab.html"
   },
   {
     "name": "impact-lens",
     "path": "/impact-lens",
-    "title": "راصد الأثر (Leak Analysis)",
+    "title": "راصد الأثر (Case Analysis)",
     "htmlFile": "impact-lens.html"
   },
   {
     "name": "trends",
     "path": "/trends",
-    "title": "راصد الاتجاهات (Leak Analysis)",
+    "title": "راصد الاتجاهات (Case Analysis)",
     "htmlFile": "trends.html"
   },
   {
     "name": "reports-analysis",
     "path": "/reports-analysis",
-    "title": "راصد التقارير (Leak Analysis)",
+    "title": "راصد التقارير (Case Analysis)",
     "htmlFile": "reports-analysis.html"
   },
   {
@@ -356,31 +356,31 @@
   {
     "name": "breach-dashboards",
     "path": "/breach-dashboards",
-    "title": "مركز لوحات التسريبات",
+    "title": "مركز لوحات الرصد",
     "htmlFile": "breach-dashboards.html"
   },
   {
     "name": "breach-operations",
     "path": "/breach-operations",
-    "title": "مركز عمليات التسريبات",
+    "title": "مركز عمليات الرصد",
     "htmlFile": "breach-operations.html"
   },
   {
     "name": "app-incidents",
     "path": "/app/incidents",
-    "title": "لوحة الحوادث",
+    "title": "لوحة حالات الرصد",
     "htmlFile": "app-incidents.html"
   },
   {
     "name": "app-incidents-list",
     "path": "/app/incidents/list",
-    "title": "قائمة الحوادث",
+    "title": "قائمة حالات الرصد",
     "htmlFile": "app-incidents-list.html"
   },
   {
     "name": "leak-anatomy",
     "path": "/leak-anatomy",
-    "title": "تشريح التسريب",
+    "title": "تشريح الكشف",
     "htmlFile": "leak-anatomy.html"
   },
   {
